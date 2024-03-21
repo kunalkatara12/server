@@ -1,1 +1,0 @@
-// here you will write your config for the app such as connecting to the database
